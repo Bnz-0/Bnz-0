@@ -14,6 +14,6 @@ and finally, it's dumb slow.
 
 You can find the active repos moved on codeberg: https://codeberg.org/bnz
 
-Only few repos will remain here on github (shared ownership, forks, and [fuk-u-teams](https://github.com/Bnz-0/fuk-u-teams) because it's too funny that a microslop serve this) and are the ones not archived.
+Only few repos will remain here on github (shared ownership, forks, and [fuk-u-teams](https://github.com/Bnz-0/fuk-u-teams) because it's too funny that microslop serve this) and are the ones not archived.
 
 P.s. Almost forgot to say that this shit is slow as fuck.
