@@ -1,16 +1,19 @@
-## Hi there 👋
+# Why I quit github?
 
-<!--
-**Bnz-0/Bnz-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Because it's fucking slow.
 
-Here are some ideas to get you started:
+... and also because \
+it's closed source but my code is not, \
+it's profit-oriented but my code is not, \
+it's suuuper slow (and hopefully my code is not), \
+its ux is terrible, \
+its features are sold like ads (especially ai ones), \
+requires a 2023+ machine to open a fucking page in human time, \
+requires js to open a fucking page \
+and finally, it's dumb slow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find the active repos moved on codeberg: https://codeberg.org/bnz
+
+Only few repos will remain here on github (shared ownership, forks, and [fuk-u-teams](https://github.com/Bnz-0/fuk-u-teams) because it's too funny that a microslop serve this) and are the ones not archived.
+
+P.s. Almost forgot to say that this shit is slow as fuck.
